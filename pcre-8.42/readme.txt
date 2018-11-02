@@ -1,7 +1,10 @@
+Source Code: https://sourceforge.net/projects/pcre/files/pcre/
+
+Build
 1. For Android
 run ./build-pcre-android.sh in the command and the build result will be in the parent's fold, see detail from the script.
 
-Modify the config
+Modify the configuration:
 ANDROID_NDK="/Users/polar.wu/softing/android-ndk-r15c"
 
 
